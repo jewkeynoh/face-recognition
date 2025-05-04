@@ -24,5 +24,4 @@ Thumbs.db
 # Data files (optional - decide if you want to commit encodings)
 *.pkl
 
-known_faces
 logs
