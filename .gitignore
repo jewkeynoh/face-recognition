@@ -1,0 +1,28 @@
+# .gitignore
+
+# Virtual Environment
+venv/
+/venv/
+*.venv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled files
+*.so
+*.o
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files (example for VSCode)
+.vscode/
+
+# Data files (optional - decide if you want to commit encodings)
+*.pkl
+
+known_faces
+logs
