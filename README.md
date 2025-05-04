@@ -43,6 +43,7 @@ face_recognition_project/
 │
 ├── known_face_encodings.pkl # (Optional) Output of face_encoder.py
 └── LICENSE                 # (Optional) Add your chosen license file (e.g., MIT)
+```
 
 ## Prerequisites
 
